@@ -23,3 +23,4 @@ for i in range(1,3):
 print(news_total[0])
 #df=pandas.DataFrame(news_total)
 #df.to_excel('news729.xlsx')
+#修改
